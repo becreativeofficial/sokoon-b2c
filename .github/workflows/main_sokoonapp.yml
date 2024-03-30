@@ -59,4 +59,4 @@ jobs:
           app-name: 'sokoonapp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A6C071F8768A4C6BBC08F96777D6C899 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D1FFEF682DA04BA49285309053E55639 }}
